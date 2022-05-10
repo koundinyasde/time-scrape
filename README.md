@@ -8,3 +8,6 @@
 ### To start the server
 
 ## npm start
+
+
+### go to this [link](http://localhost:3000/stories)  to get the stories
