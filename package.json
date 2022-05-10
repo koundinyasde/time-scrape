@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "nodemon latestStories.py"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
